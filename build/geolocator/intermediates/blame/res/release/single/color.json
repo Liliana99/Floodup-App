@@ -1,0 +1,14 @@
+[
+    {
+        "merged": "/Users/mobdev/Desktop/FloodUp/build/geolocator/intermediates/res/merged/release/color/common_google_signin_btn_text_light.xml",
+        "source": "/Users/mobdev/.gradle/caches/transforms-2/files-2.1/aa6bc686f735b872d1bc06b049add509/res/color/common_google_signin_btn_text_light.xml"
+    },
+    {
+        "merged": "/Users/mobdev/Desktop/FloodUp/build/geolocator/intermediates/res/merged/release/color/common_google_signin_btn_tint.xml",
+        "source": "/Users/mobdev/.gradle/caches/transforms-2/files-2.1/aa6bc686f735b872d1bc06b049add509/res/color/common_google_signin_btn_tint.xml"
+    },
+    {
+        "merged": "/Users/mobdev/Desktop/FloodUp/build/geolocator/intermediates/res/merged/release/color/common_google_signin_btn_text_dark.xml",
+        "source": "/Users/mobdev/.gradle/caches/transforms-2/files-2.1/aa6bc686f735b872d1bc06b049add509/res/color/common_google_signin_btn_text_dark.xml"
+    }
+]

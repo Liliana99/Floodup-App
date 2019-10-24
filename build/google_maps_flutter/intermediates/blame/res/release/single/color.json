@@ -1,0 +1,14 @@
+[
+    {
+        "merged": "/Users/mobdev/Desktop/FloodUp/build/google_maps_flutter/intermediates/res/merged/release/color/common_google_signin_btn_tint.xml",
+        "source": "/Users/mobdev/.gradle/caches/transforms-2/files-2.1/fc38880a2054ffe0bb9d73991369a0ec/res/color/common_google_signin_btn_tint.xml"
+    },
+    {
+        "merged": "/Users/mobdev/Desktop/FloodUp/build/google_maps_flutter/intermediates/res/merged/release/color/common_google_signin_btn_text_dark.xml",
+        "source": "/Users/mobdev/.gradle/caches/transforms-2/files-2.1/fc38880a2054ffe0bb9d73991369a0ec/res/color/common_google_signin_btn_text_dark.xml"
+    },
+    {
+        "merged": "/Users/mobdev/Desktop/FloodUp/build/google_maps_flutter/intermediates/res/merged/release/color/common_google_signin_btn_text_light.xml",
+        "source": "/Users/mobdev/.gradle/caches/transforms-2/files-2.1/fc38880a2054ffe0bb9d73991369a0ec/res/color/common_google_signin_btn_text_light.xml"
+    }
+]

@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "411886512137",
+    "firebase_url": "https://floodup-7bb5a.firebaseio.com",
+    "project_id": "floodup-7bb5a",
+    "storage_bucket": "floodup-7bb5a.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:411886512137:android:5237909a6e8f9def2b30d8",
+        "android_client_info": {
+          "package_name": "edu.ub.floodup"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "411886512137-u0h3lm4jemfor4dof99em1akeobf3v6d.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCIO9J0sDqHZX0e2U32irWDoqrE6h7ECus"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "411886512137-u0h3lm4jemfor4dof99em1akeobf3v6d.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "411886512137-a5bjvpaa5o2ad2cjsso8rsdlhv7cufik.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "edu.ub.floodup"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
